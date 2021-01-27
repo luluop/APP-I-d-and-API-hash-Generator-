@@ -22,7 +22,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://GitHub.com/SpEcHiDe/MyTelegramOrgRoBot.git
+git clone https://GitHub.com/luluop/APP-I-d-and-API-hash-Generator-.git
 ```
 
 - change the directory.
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [@Swami_2_0_0_5](https://telegram.dog/ThankTelegram)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
