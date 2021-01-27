@@ -1,4 +1,4 @@
-# MyTelegramOrgRoBot
+# Mytgappid&apihashbot 
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
@@ -7,9 +7,8 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
-
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+- can be found on [Telegram](https://telegram.dog/tg1scrapbot)
+**is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## installing
